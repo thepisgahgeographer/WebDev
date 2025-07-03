@@ -1,0 +1,12 @@
+/* This file is intentionally left blank. */
+
+/* #intro_para {
+    background-color: red;
+}
+ */
+
+ p[draggable="true"]{
+    color: orangered;
+ }
+
+
